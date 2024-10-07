@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 40px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* Centra el contenedor */
+}
+
+p, ul {
+    text-align: justify; /* Justifica el texto para una mejor lectura */
+}
+
+.btn-biografia {
+    margin-top: 20px;
+}
+
+#biografia {
+    display: none;
+}
