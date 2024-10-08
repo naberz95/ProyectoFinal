@@ -17,9 +17,6 @@ section {
     margin: 0 auto; /* Centra el contenedor */
 }
 
-p, ul {
-    text-align: justify; /* Justifica el texto para una mejor lectura */
-}
 
 .btn-biografia {
     margin-top: 20px;
