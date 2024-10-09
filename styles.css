@@ -23,6 +23,25 @@ section {
     max-width: 800px;
     margin: 0 auto; /* Centra el contenedor */
 }
+.blog-entry {
+    margin: 20px 0; /* Espaciado entre entradas */
+    padding: 20px; /* Espaciado interno para el contenido */
+    background-color: #f8f9fa; /* Color de fondo claro */
+    border: 1px solid #dee2e6; /* Borde gris claro */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave para un efecto elevado */
+}
+
+.media-container {
+    margin: 20px 0; /* Espacio alrededor de la imagen o video */
+}
+
+.modification-info {
+    font-size: 0.9rem; /* Tamaño del texto más pequeño */
+    color: rgb(0, 0, 0); /* Color del texto de modificación */
+    margin-top: 20px; /* Espacio superior */
+}
+
 
 
 .btn-biografia {
