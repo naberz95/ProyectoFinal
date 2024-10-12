@@ -105,14 +105,13 @@ body {
 }
 
 footer {
-        background-color: #0d6efd;
-        text-align: center;
-        padding: 20px;
-        color:white;
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-    }
+    width: 100%; /* Asegura que el footer ocupe todo el ancho */
+    text-align: center; /* Centra el texto dentro del footer */
+    padding: 20px; /* Espaciado interno */
+    color: white; /* Color del texto */
+    position: relative; /* Posición relativa para permitir que los hijos se posicionen correctamente */
+    bottom: 0; /* Asegura que el footer esté en la parte inferior si el contenido es corto */
+}
     footer p {
         justify-content: center;
         margin: 0;
