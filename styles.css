@@ -74,7 +74,7 @@ body {
 }
 
 .banner {
-    background-image: url("/src/img/baner.jpeg"); /* Ruta de tu imagen */
+    background-image: url("src/img/baner.jpeg"); /* Ruta de tu imagen */
     background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
     background-position: center; /* Centra la imagen */
     padding: 60px 0; /* Espacio superior e inferior */
